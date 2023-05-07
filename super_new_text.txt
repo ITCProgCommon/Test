@@ -1,9 +1,6 @@
 adddddd_text
 Hello world;
 
-
-
-
 1
 
 2
